@@ -1,0 +1,26 @@
+
+
+/**************services***********/
+div.row.collapse.services {
+    background: #4e9159;
+    padding: 28px;
+    color: #fff;
+    margin-bottom: 25px;
+    border-radius: 25px;
+    font-size: 1.2em;
+}
+
+.services-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 95px;
+}
+
+p {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+    text-rendering: optimizeLegibility;
+}
