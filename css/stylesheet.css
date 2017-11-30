@@ -11,9 +11,13 @@ div.row.collapse.services {
 }
 
 .services-image {
-    width: 230px;
-    height: 160px;
-    border-radius: 105px;
+    width: 250px;
+    height: 180px;
+    border-radius: 75px;
+	float: right;
+	margin: 0 0 10px 10px;
+	padding: 10px;
+	border: 2px solid #ccc;
 }
 
 p {
